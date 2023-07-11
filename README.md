@@ -17,6 +17,7 @@ This script allows you to decrypt and retrieve saved passwords from the Google C
 - Python 3.6 or higher
 - `pycryptodomex` library
 - `colorama` library
+- `pywin32` library
 
 ## Usage
 
