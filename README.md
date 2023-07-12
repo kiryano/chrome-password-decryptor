@@ -11,7 +11,9 @@ This script allows you to decrypt and retrieve saved passwords from the Google C
 - Decrypt and retrieve saved passwords from Google Chrome
 - Supports Windows, macOS, and Linux operating systems
 - Outputs decrypted passwords to a CSV file
-- Adding support for other browsers as well later on
+
+## TODOs
+- Add support for other browsers (e.g., edge, firefox, brave)
 
 ## Requirements
 
