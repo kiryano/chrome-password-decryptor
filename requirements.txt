@@ -1,0 +1,4 @@
+Cryptodome==3.10.1
+colorama==0.4.4
+pycryptodomex==3.11.0
+pywin32==301
