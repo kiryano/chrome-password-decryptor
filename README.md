@@ -27,7 +27,10 @@ This script allows you to decrypt and retrieve saved passwords from the Google C
 ## Usage
 
 1. Clone the repository:
-2. Install the dependencies ```bash pip install -r requirements.txt```
+2. Install the dependencies:
 
    ```bash
    git clone https://github.com/kiryano/chrome-password-decryptor.git
+
+   ```bash
+   pip install -r requirements.txt
